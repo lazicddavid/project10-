@@ -56,20 +56,19 @@ textarea {
 
 .options {
   display: flex;
-  justify-content: space-between;
+  justify-content: start;
 
   color: white;
   align-items: center;
   cursor: pointer;
-  gap: 2px;
 }
 
 .right-paragraph {
-  display: flex;
-  margin-left: 170px;
+  width: auto;
+  /*display: flex;
   align-items: center;
   text-align: center;
-  color: white;
+  color: white;*/
 }
 
 .containers {
