@@ -107,3 +107,13 @@ span {
 .container3 {
   background-color: peru;
 }
+
+footer {
+  font-family: sans-serif;
+  color: white;
+  font-weight: 400;
+}
+
+footer p {
+  font-size: small;
+}
