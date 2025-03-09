@@ -52,23 +52,22 @@ textarea {
   background-color: #1c2833;
   border-radius: 10px;
   border: none;
+  margin-bottom: 0;
 }
 
 .options {
-  display: flex;
+  display: inline-flex;
   justify-content: start;
-
   color: white;
   align-items: center;
   cursor: pointer;
+  gap: 5px;
 }
 
 .right-paragraph {
-  width: auto;
-  /*display: flex;
-  align-items: center;
-  text-align: center;
-  color: white;*/
+  display: inline-flex;
+  margin-left: 115px;
+  color: white;
 }
 
 .containers {
